@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# Whitelist
+!.gitignore
+!.bashrc
+!.tmux.conf
+!.vimrc
+!.zshrc
+!update.sh
